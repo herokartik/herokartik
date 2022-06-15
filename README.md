@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Algorithms 
 
 - 📫 How to reach me
-instagram- instagram.com/kartikeswar_rana/
-Facebook - facebook.com/kartikeswar.rana.92
+instagram- @kartikeswar_rana
+Facebook - Kartikeswar Rana
 
 <!---
 herokartik/herokartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
