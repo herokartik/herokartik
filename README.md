@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @herokartik
+- 👋 Hi, I’m Kartik
+- An Undergrad of Fakir Mohan University 🎓
+- Intrested In Computational Calculation.
+- My aim for Programming is to use it in Physics.
 - 👀 I’m interested in Coding,Problem Solving
-- 🌱 I’m currently learning Algorithms 
 
 - 📫 How to reach me
 instagram- @kartikeswar_rana
