@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kartik
-- An Undergrad of Fakir Mohan University 🎓
+- Pursuing Postgraduation at Fakir Mohan University,Odisha 🎓
 - Intrested In Computational Calculation.
 - My aim for Programming is to use it in Physics.
 - 👀 I’m interested in Coding,Problem Solving
